@@ -18,18 +18,18 @@
 #Sample Feature Definition Template
 @tag
 Feature: Automate amazon website
-#  Scenario: amazon website using selenium
-#    Given Open google chrome website
-#    Then Amazon signIn using POM
+  Scenario: amazon website using selenium
+    Given Open google chrome website
+    Then Amazon signIn using POM
 
 #  Scenario: Select dropdown
 #    Given Open browserstack website using select class
     
-#  Scenario: Select dropdown exercise
-#    Given Handling dropdown in selenium with select class 
+  Scenario: Select dropdown exercise
+    Given Handling dropdown in selenium with select class 
     
-#  Scenario: Select dropdown without select class
-#    Given dropdown without select class
+  Scenario: Select dropdown without select class
+    Given dropdown without select class
 
   Scenario: Select dropdown without select class exercise
     Given dropdown without select class exercise
